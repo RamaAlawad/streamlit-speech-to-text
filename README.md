@@ -1,3 +1,7 @@
+<p align="center">
+   <img src="images/The interface.png" width="300" alt="My Image">
+</p>   
+
 # 🎤 Speech-to-Text Streamlit Application
 
 This Streamlit application provides a user-friendly interface for converting spoken language into text. It supports both Arabic and English, offering a seamless experience for real-time transcription.
