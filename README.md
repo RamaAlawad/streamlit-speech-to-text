@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="images/The_interface.png" width="300" alt="My Interface">
+   <img src="The_interface.png" width="300" alt="My Interface">
 </p>   
 
 # 🎤 Speech-to-Text Streamlit Application
